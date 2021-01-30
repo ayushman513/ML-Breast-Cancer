@@ -5,8 +5,13 @@ Breast cancer is the most common type of cancer in women. When cancers are found
 For building the project we have used Wisconsin Breast cancer data which has 569 rows of which 357 are benign, 212 are malignant and 33 columns.
 ML Models used and accuracy :-
   1) Logistic Regression
+    
      ACCURACY - 95.10%
+  
   2) Decision Tree Classifier  
+     
      ACCURACY - 93.70%
+  
   3) Random Forest Classifier
+     
      ACCURACY - 96.50%
